@@ -1,4 +1,3 @@
-@import "bourbon";
 @import "fonts";
 @import "libs";
 @import "vars";
@@ -40,7 +39,7 @@ body {
 	font-size: rem(16px);
 	min-width: 320px;
 	position: relative;
-	line-height: 1.75;
+	line-height: 1.42;
 	font-family: $default-font;
 	overflow-x: hidden;
 }

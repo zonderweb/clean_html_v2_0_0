@@ -7,9 +7,9 @@ $susy: (
 	debug: (image: hide)
 );
 
-// @include border-box-sizing;
+@include border-box-sizing;
 
-// Grid (сетка)
+// Grid (сетка) SUSy
 
 .main__wrapper {
   @include container();
