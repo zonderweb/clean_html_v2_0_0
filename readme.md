@@ -19,7 +19,7 @@
 <h2>How to use OptimizedHTML</h2>
 
 <ol>
-	<li><a href="https://github.com/zonderweb/clean_html_v2_0_0/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub <br> or <strong>git clone https://github.com/zonderweb/clean_html_v2_0_0.git</strong>;</li>
+	<li><a href="https://github.com/zonderweb/clean_html_v2_0_0/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub <br> or <strong>git clone https://github.com/zonderweb/clean_html_v2_0_1.git</strong>;</li>
 	<li>update node modules: <strong>npm ncu</strong>;</li>
 	<li>Install Node Modules: <strong>npm i</strong>;</li>
 	<li>Run the template: <strong>gulp</strong>.</li>
