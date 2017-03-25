@@ -1,4 +1,4 @@
-<h1>OptimizedHTML (Scss) - v2.0.0 + Addons</h1>
+<h1>OptimizedHTML (Scss) - v2.0.1 + Addons</h1>
 
 <p>
 	<img src="https://raw.githubusercontent.com/zonderweb/clean_html_v2_0_0/master/app/img/prew_html_2.jpg" alt="Start HTML Template">
@@ -6,7 +6,7 @@
 
 <p><a href="http://webdesign-master.ru/blog/tools/2016-08-19-optimizedhtml.html" target="_blank">Manual in Russian</a></p>
 
-<p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP, Bower (libs path) and Bourbon support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
+<p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP, Bower (libs path). The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
 <p>Addons: <strong>Susy</strong>, <strong>OWL.Carousel</strong>, <strong>FontAwesome</strong>, <strong>normalize.css</strong>, <strong>magnific-popup</strong>, <strong>JQ-Easy-Tabs</strong>.</p>
 
@@ -19,7 +19,8 @@
 <h2>How to use OptimizedHTML</h2>
 
 <ol>
-	<li><a href="https://github.com/zonderweb/clean_html_v2_0_0/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub;</li>
+	<li><a href="https://github.com/zonderweb/clean_html_v2_0_0/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub <br> or <strong>git clone https://github.com/zonderweb/clean_html_v2_0_0.git</strong>;</li>
+	<li>update node modules: <strong>npm ncu</strong>;</li>
 	<li>Install Node Modules: <strong>npm i</strong>;</li>
 	<li>Run the template: <strong>gulp</strong>.</li>
 </ol>
