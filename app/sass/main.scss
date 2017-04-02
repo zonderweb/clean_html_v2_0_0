@@ -1,9 +1,13 @@
 @import "fonts";
 @import "libs";
 @import "vars";
-@import "app/libs/susy/sass/susy"; //Susy
+@import "app/libs/susy/sass/susy"; //Susy 
 @import "grid";
 @import "header";
+
+* {
+	box-sizing: border-box;
+}
 
 *::-webkit-input-placeholder {
 	color: #666;
